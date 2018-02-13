@@ -14,7 +14,7 @@ for Android 4.4 or later
 
 ### Installing
 
-cordova plugin add https://github.com/diegofgarciao/com.adk.datafonoRF.git
+cordova plugin add https://github.com/diegofgarciao/com.adk.datafono.git
 
 ## Methods
 
